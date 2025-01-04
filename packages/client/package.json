@@ -1,5 +1,5 @@
 {
-  "name": "monaco-languageclient",
+  "name": "@hancomac/monaco-languageclient",
   "version": "1.1.0",
   "description": "Monaco Language client implementation",
   "author": {
